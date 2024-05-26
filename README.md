@@ -1,6 +1,7 @@
 # Machine-Learning
 
-![TensorFlow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png)
+![TensorFlow Logo](<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="TensorFlow Logo" width="200">
+)
 
 ### Daftar Peserta:
 - M183D4KY1958 – Aldi Putra Miftaqull Ullum
